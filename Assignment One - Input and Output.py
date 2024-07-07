@@ -12,9 +12,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-"""
----sample run #1---
-Please enter your name: Katie
-Hi Katie, let's explore some historical temperatures.
-"""
